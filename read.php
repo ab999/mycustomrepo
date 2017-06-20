@@ -2,5 +2,4 @@
 
 echo "read";
 
-echo "read";
 ?>
